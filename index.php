@@ -1,3 +1,3 @@
 <body>
-My git hub study
+says the files are
 </body>
